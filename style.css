@@ -1,0 +1,61 @@
+table,th,td{
+BORDER:1px solid black;
+border-collapse:collapse;
+
+	background-color:skyblue;
+	margin:auto;
+
+text-align:auto;
+}
+
+.is{
+	color:rgb(255,0,0);
+	background-color:yellow;
+}
+.io{
+	color:rgb(0,0,0);
+	background-color:white;
+}
+.ip{
+	color:rgb(255,255,255);
+}
+.iu{
+	color:rgb(60,60,60);
+	background-color:gray;
+}
+.iy{
+	background-color:rgba(240,240,240);
+}
+.sa{
+color:rgb(240,240,240,1);
+background-color:yellow:
+}
+.dd{
+	color:#0000ff;
+}
+.df{
+	color:#3cb371;
+}
+.da{
+color:#ee82ee;
+color:#ffa500;
+}
+.zx{
+	background-color:hsl(0,100%,0%);
+	color:hsl(0, 100%, 90%);
+}	
+	
+.zc{
+background-color:hsl(0, 100%, 50%);
+color:hsl(0, 100%, 75%);
+
+}	
+.zv{
+	color:hsl(147,50%,47%);
+	background-color:hsl(0, 100%, 75%);
+}
+.ma{
+	background-color:hsl(0,100%,0%);
+	color:hsl(0, 100%, 90%);
+}
+	
